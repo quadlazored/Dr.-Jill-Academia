@@ -24,7 +24,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "lucy2.jpg"
-  name             : "/Dr.-Jill-Academia"
+  name             : "Dr.-Jill-Academia"
   pronouns         : # example: "she/her"  
   bio              : "Studies microplastics and stuff"
   location         : "Earth"
