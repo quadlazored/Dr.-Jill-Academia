@@ -9,7 +9,7 @@ date: 2023-01-01
 #venue: 'Journal 1'
 #slidesurl: 'https://academicpages.github.io/files/slides3.pdf'
 #paperurl: 'https://academicpages.github.io/files/paper3.pdf'
-citation: 'Felker J.M. (2023). &quot;Connecting Antibiotic Resistance to the Environment (CARE): Introducing a Novel Framework Integrating Chemical Cross-Resistance and
+citation: 'Felker J.M. (2023-01-01). &quot;Connecting Antibiotic Resistance to the Environment (CARE): Introducing a Novel Framework Integrating Chemical Cross-Resistance and
 Place-Based Engagement to the Blue Marsh Watershed in Reading.&quot;'# <i>Journal 1</i>. 1(3).'
 ---
 
