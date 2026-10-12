@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 #permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'Triclosan in greywater'
-date: 2011
+date: 2011-01-01
 venue: 'Applied and Environmental Soil Science'
 #slidesurl: 'https://academicpages.github.io/files/slides2.pdf'
 paperurl: 'https//doi.org/10.1155/2011/646750'
