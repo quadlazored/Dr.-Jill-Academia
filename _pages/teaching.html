@@ -5,7 +5,9 @@ permalink: /teaching/
 author_profile: true
 ---
 
-{% for post in site.teaching reversed %}
-- [{{ post.title }}]({{ post.url | relative_url }})
-{% endfor %}
+<ul>
+  {% for post in site.teaching reversed %}
+    <li><a href="{{ post.url | relative_url }}">{{ post.title }}</a></li>
+  {% endfor %}
+</ul>
 
