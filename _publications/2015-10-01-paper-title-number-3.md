@@ -5,7 +5,7 @@ collection: publications
 category: manuscripts
 #permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'CARE Framework'
-date: 2023
+date: 2023-01-01
 #venue: 'Journal 1'
 #slidesurl: 'https://academicpages.github.io/files/slides3.pdf'
 #paperurl: 'https://academicpages.github.io/files/paper3.pdf'
