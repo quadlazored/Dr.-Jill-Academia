@@ -1,7 +1,7 @@
 ---
 title: "Presence of the tetA Gene in Bacteria from Soil Irrigated with Greywater Containing Triclosan"
 collection: publications
-category: manuscript
+category: manuscripts
 #permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'Triclosan in greywater'
 date: 2011-01-01
